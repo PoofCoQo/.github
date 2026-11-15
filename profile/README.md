@@ -23,7 +23,15 @@ The code is generated. The responsibility isn't.
 
 ### underscore.pnp
 
-*Soon (tm)*
+<a href="https://github.com/PoofCoQo/underscore.pnp">
+  <img
+    src="https://github.com/user-attachments/assets/fc4774f9-ec17-4fe4-99c6-d781739c67e2"
+    alt="underscore.pnp"
+    width="250"
+  />
+</a>
+
+underscore.pnp is a lightweight audio loop player built to keep your Pen & Paper sessions sounding the way you intended.
 
 ### underlay.pnp
 
